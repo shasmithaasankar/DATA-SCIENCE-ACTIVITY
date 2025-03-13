@@ -72,5 +72,3 @@ Filtered the given data by the above questions or commands.
         
 
 
-# RESULT
-      <<include your Result here>>
